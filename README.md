@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Spring Boot<br>⚡ Use to be a python developer now shifted to Java 
+<br>🌱 I’m currently working as a django Dev <br>⚡  
 
 
 ## 🌐 Socials:
